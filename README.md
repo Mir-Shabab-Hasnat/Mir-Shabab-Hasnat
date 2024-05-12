@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Undergrad || Asipiring Software Engineer
 -------------------------------------------
 
-I am a Computer Science student at the University of Saskatchewan. Have been coding for 5 years. My areas of interest are Machine learning as well as Software Engineering. I also have experience working with React.js.
+I am a Computer Science student at the University of Saskatchewan. Have been coding for 5 years. My areas of interest are Machine learning as well as Software Engineering. I have experience working with Next.js, Backend Routing and API calls and databases
 
 * 🌍  I'm based in Saskatoon, Sk, Canada
 * ✉️  You can contact me at [shababhasnat@gmail.com](mailto:shababhasnat@gmail.com)
