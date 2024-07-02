@@ -8,7 +8,7 @@ I am a Computer Science student at the University of Saskatchewan. Have been cod
 
 * 🌍  I'm based in Saskatoon, Sk, Canada
 * ✉️  You can contact me at [shababhasnat@gmail.com](mailto:shababhasnat@gmail.com)
-* 🧠  I'm learning AWS Cloud
+* 🧠  I'm learning Software Engineering concepts and tools like Nextjs
 
 ### Skills
 
