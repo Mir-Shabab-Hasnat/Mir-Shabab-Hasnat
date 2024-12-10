@@ -9,7 +9,7 @@ Hi there! I'm Mir Shabab Hasnat, a passionate Computer Science student at the Un
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-blond-sigma-91.vercel.app/)
 * ✉️  You can contact me at [shababhasnat@gmail.com](mailto:shababhasnat@gmail.com)
-* 🚀  I'm currently working on [An AI-powered SaaS PDF interaction Web Application](http://github.com/Mir-Shabab-Hasnat/scholar-assist)
+* 🚀  I'm currently working on a infinite runner game in Godot
 * 🤝  I'm open to collaborating on Software engineering /Web Application Projects
 
 ### Skills
