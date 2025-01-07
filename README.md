@@ -4,8 +4,7 @@ Hi 👋 My name is Mir Shabab Hasnat
 Software Engineer and Designer
 ------------------------------
 
-Hi there! I'm Mir Shabab Hasnat, a passionate Computer Science student at the University of Saskatchewan with a keen interest in full-stack web development and data science. I’m proficient in Python, Java, C, JavaScript, and TypeScript, and I’ve got hands-on experience with technologies like Next.js, React.js, and Tailwind CSS. My recent projects include developing a real-time digital illustration tool using OpenCV and a feature-rich issue tracker with advanced PDF interaction capabilities. When I'm not coding, I enjoy teaching math and science at Oxford Learning Center and tutoring various subjects at Saskatchewan Polytechnic. I’m also gaining valuable experience as a Project Intern, where I design engaging UI and enhance SEO strategies for small businesses. Feel free to check out my projects on GitHub and connect with me!
-
+Hi there! I'm Mir Shabab Hasnat, a passionate Computer Science student at the University of Saskatchewan with a keen interest in full-stack web development and data science. I’m proficient in Python, Java, C, JavaScript, and TypeScript, and I’ve got hands-on experience with technologies like Next.js, React.js, and Tailwind CSS. 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [My Portfolio](https://mir-shabab-hasnat.vercel.app/)
 * ✉️  You can contact me at [shababhasnat@gmail.com](mailto:shababhasnat@gmail.com)
