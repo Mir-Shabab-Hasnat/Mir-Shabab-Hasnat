@@ -9,7 +9,7 @@ Hi there! I'm Mir Shabab Hasnat, a passionate Computer Science student at the Un
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [My Portfolio](https://mir-shabab-hasnat.vercel.app/)
 * ✉️  You can contact me at [shababhasnat@gmail.com](mailto:shababhasnat@gmail.com)
-* 🚀  I'm currently working on a infinite runner game in Godot
+* 🚀  I'm currently working on a SaaS k-12 LMS Startup Project for the Bangladesh Market
 * 🤝  I'm open to collaborating on Software engineering /Web Application Projects
 
 ### Skills
