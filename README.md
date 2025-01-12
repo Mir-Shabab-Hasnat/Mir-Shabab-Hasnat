@@ -1,7 +1,7 @@
 Hi 👋 My name is Mir Shabab Hasnat
 ==================================
 
-Software Engineer and Designer
+Techie
 ------------------------------
 
 Hi there! I'm Mir Shabab Hasnat, a passionate Computer Science student at the University of Saskatchewan with a keen interest in full-stack web development and data science. I’m proficient in Python, Java, C, JavaScript, and TypeScript, and I’ve got hands-on experience with technologies like Next.js, React.js, and Tailwind CSS. 
