@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently in my 3rd year of studying computer science as an undergraduate<br>Working on a SaaS Startup Project!
+Currently in my 3rd year of studying computer science as an undergraduate<br>Working on a Social Media Startup Project!
 
 
 ## 🌐 Socials:
